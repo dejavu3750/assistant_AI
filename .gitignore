@@ -1,0 +1,17 @@
+# Ignore environment files
+env/
+db/chroma_langchain_db
+
+
+# Ignore compiled files
+*.class
+*.o
+*.pdf
+
+
+# Ignore system files
+
+# Ignore cache files
+__pycache__/
+*.pyc
+*.pyo
